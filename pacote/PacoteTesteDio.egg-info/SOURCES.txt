@@ -1,0 +1,5 @@
+setup.py
+PacoteTesteDio.egg-info/PKG-INFO
+PacoteTesteDio.egg-info/SOURCES.txt
+PacoteTesteDio.egg-info/dependency_links.txt
+PacoteTesteDio.egg-info/top_level.txt
